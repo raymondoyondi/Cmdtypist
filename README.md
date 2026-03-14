@@ -2,6 +2,8 @@
 
 A lightweight, high-performance command-line typing tutor written in C. Designed for developers and terminal enthusiasts who want to sharpen their typing speed (WPM) and accuracy without leaving the console.
 
+
+
 ## 🚀 Features
 
 * **Real-time Metrics:** Tracks Words Per Minute (WPM) and accuracy percentage as you type.
